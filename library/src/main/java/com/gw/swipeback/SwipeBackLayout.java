@@ -409,11 +409,11 @@ public class SwipeBackLayout extends ViewGroup {
     return isSwipeFromEdge;
   }
 
-  public boolean isEnable() {
+  public boolean isSwipeEnable() {
     return mIsEnabled;
   }
 
-  public void setEnabled(boolean enabled) {
+  public void setSwipeEnabled(boolean enabled) {
     mIsEnabled = enabled;
   }
 
