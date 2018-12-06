@@ -54,6 +54,7 @@ public class SwipeBackLayout extends ViewGroup {
     private int maskAlpha = 125;
     private boolean isSwipeFromEdge = false;
     private float downX, downY;
+    private boolean mIsSwipeEnabled = false;
 
     private int leftOffset = 0;
     private int topOffset = 0;
@@ -325,19 +326,20 @@ public class SwipeBackLayout extends ViewGroup {
     }
 
     private boolean isSwipeEnabled() {
-        if (isSwipeFromEdge) {
+        boolean enabled = isSwipeFromEdge
+        if (enabled) {
             switch (mDirectionMode) {
                 case FROM_LEFT:
-                    return touchedEdge == ViewDragHelper.EDGE_LEFT;
+                    enabled = touchedEdge == ViewDragHelper.EDGE_LEFT;
                 case FROM_TOP:
-                    return touchedEdge == ViewDragHelper.EDGE_TOP;
+                    enabled = touchedEdge == ViewDragHelper.EDGE_TOP;
                 case FROM_RIGHT:
-                    return touchedEdge == ViewDragHelper.EDGE_RIGHT;
+                    enabled = touchedEdge == ViewDragHelper.EDGE_RIGHT;
                 case FROM_BOTTOM:
-                    return touchedEdge == ViewDragHelper.EDGE_BOTTOM;
+                    enabled = touchedEdge == ViewDragHelper.EDGE_BOTTOM;
             }
         }
-        return true;
+        return enabled && mIsSwipeEnabled;
     }
 
     private boolean backJudgeBySpeed(float xvel, float yvel) {
@@ -395,6 +397,14 @@ public class SwipeBackLayout extends ViewGroup {
 
     public void setAutoFinishedVelocityLimit(float autoFinishedVelocityLimit) {
         this.autoFinishedVelocityLimit = autoFinishedVelocityLimit;
+    }
+
+    public boolean isIsSwipeEnabled() {
+        return mIsSwipeEnabled;
+    }
+
+    public void setSwipeEnabled(boolean enabled) {
+        this.mIsSwipeEnabled = enabled;
     }
 
     public boolean isSwipeFromEdge() {
