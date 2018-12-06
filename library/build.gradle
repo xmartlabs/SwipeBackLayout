@@ -11,6 +11,7 @@ android {
         targetSdkVersion 25
         versionCode 102
         versionName "1.0.2"
+        installDebug.enabled = false
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
@@ -18,7 +19,6 @@ android {
     buildTypes {
         release {
             minifyEnabled false
-            installDebug.enabled = false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
