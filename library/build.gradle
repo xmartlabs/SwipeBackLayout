@@ -10,7 +10,6 @@ android {
         targetSdkVersion 25
         versionCode 102
         versionName "1.0.2"
-        installDebug.enabled = false
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
