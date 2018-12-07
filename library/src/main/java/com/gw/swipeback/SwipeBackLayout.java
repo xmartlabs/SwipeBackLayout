@@ -328,8 +328,8 @@ public class SwipeBackLayout extends ViewGroup {
   }
 
   private boolean isSwipeEnabled() {
-    boolean isEnable = isSwipeFromEdge;
-    if (isEnable) {
+    boolean isEnable = true;
+    if (isSwipeFromEdge) {
       switch (mDirectionMode) {
         case FROM_LEFT:
           isEnable = touchedEdge == ViewDragHelper.EDGE_LEFT;
