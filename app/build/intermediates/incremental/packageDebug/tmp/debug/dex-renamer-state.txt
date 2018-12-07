@@ -1,4 +1,0 @@
-#Thu Dec 06 15:26:15 UYT 2018
-base.0=/Users/felipe/AndroidStudioProjects/SwipeBackLayout/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

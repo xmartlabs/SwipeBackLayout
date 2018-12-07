@@ -4,7 +4,7 @@
             "outputFile": "/home/bruno/Documents/SwipeBackLayout/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/9ab50355d41160fa5006ef55d58b78ae/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "/home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/d623177b680d0966fc121187111d6b87/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

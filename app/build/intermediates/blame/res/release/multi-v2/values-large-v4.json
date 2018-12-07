@@ -4,7 +4,7 @@
             "outputFile": "/home/bruno/Documents/SwipeBackLayout/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/9ab50355d41160fa5006ef55d58b78ae/res/values-large-v4/values-large-v4.xml",
+                    "source": "/home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/d623177b680d0966fc121187111d6b87/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

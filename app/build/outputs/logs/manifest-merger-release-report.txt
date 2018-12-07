@@ -4,18 +4,18 @@ ADDED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xm
 INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml:2:1-59:12
 INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml:2:1-59:12
 INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml:2:1-59:12
-MERGED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/9ab50355d41160fa5006ef55d58b78ae/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4210599a800d6acce2f6069252b84995/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/4dabf2fd9ce90773bca77657f96d5cdf/AndroidManifest.xml:17:1-28:12
-MERGED from [com.gongwen:swipeback:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/swipeback-1.0.2.aar/ca0598979defa1595a0442de9ee8474c/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/385b4d4672a6b8d2e8a3a37850484f00/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b5d09c9c4c7acf4f0bcf3a89163372dc/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c30079dcd543ddc6a45ea8b78ea51a3d/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/90a0005802dfcb46d1bb4f72d5c4bd54/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/01a32122fa3486a8f4b998ac6651b6dc/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/92609ca9ce5327dc64b47c6d971032ea/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/87f025ed5913311fb91d0ecd70e225a3/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/8acfa02c19ef27c49752a53798d63561/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/d623177b680d0966fc121187111d6b87/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5f25bf5abf2eabfff8e4084c5dbcb496/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/135d4b13d4d23dd6766d6b1471c141e8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.gongwen:swipeback:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/swipeback-1.0.2.aar/a566e842157a2ddc7a9f459f1fc93f7d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/b767c9c882f808e5a3375eddf818ef4d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/7a711a9b87d48d08546c79653f0ff2d1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a55c4e17c05280015d32f4d64da23f0b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/9cb0595d5b84cbe00f015f46f0f4c1f0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/f79ebe7646da70cf28328cc35f669f94/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/813b10ca1dc364b776712ceba2764d98/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/50de2635fbd5223b4454a5929cfb22e1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/093e039205b92a0c688f61e5d33dbdcd/AndroidManifest.xml:17:1-31:12
 INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml:2:1-59:12
 INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml:2:1-59:12
 INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml:2:1-59:12
@@ -47,28 +47,28 @@ ADDED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xm
 		ADDED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml:7:22-77
 application
 ADDED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml:9:5-57:19
-MERGED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/9ab50355d41160fa5006ef55d58b78ae/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/9ab50355d41160fa5006ef55d58b78ae/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4210599a800d6acce2f6069252b84995/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4210599a800d6acce2f6069252b84995/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/4dabf2fd9ce90773bca77657f96d5cdf/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/4dabf2fd9ce90773bca77657f96d5cdf/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/385b4d4672a6b8d2e8a3a37850484f00/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/385b4d4672a6b8d2e8a3a37850484f00/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b5d09c9c4c7acf4f0bcf3a89163372dc/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b5d09c9c4c7acf4f0bcf3a89163372dc/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c30079dcd543ddc6a45ea8b78ea51a3d/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c30079dcd543ddc6a45ea8b78ea51a3d/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/90a0005802dfcb46d1bb4f72d5c4bd54/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/90a0005802dfcb46d1bb4f72d5c4bd54/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/01a32122fa3486a8f4b998ac6651b6dc/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/01a32122fa3486a8f4b998ac6651b6dc/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/92609ca9ce5327dc64b47c6d971032ea/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/92609ca9ce5327dc64b47c6d971032ea/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/87f025ed5913311fb91d0ecd70e225a3/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/87f025ed5913311fb91d0ecd70e225a3/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/8acfa02c19ef27c49752a53798d63561/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/8acfa02c19ef27c49752a53798d63561/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/d623177b680d0966fc121187111d6b87/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/d623177b680d0966fc121187111d6b87/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5f25bf5abf2eabfff8e4084c5dbcb496/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5f25bf5abf2eabfff8e4084c5dbcb496/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/135d4b13d4d23dd6766d6b1471c141e8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/135d4b13d4d23dd6766d6b1471c141e8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/b767c9c882f808e5a3375eddf818ef4d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/b767c9c882f808e5a3375eddf818ef4d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/7a711a9b87d48d08546c79653f0ff2d1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/7a711a9b87d48d08546c79653f0ff2d1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a55c4e17c05280015d32f4d64da23f0b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a55c4e17c05280015d32f4d64da23f0b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/9cb0595d5b84cbe00f015f46f0f4c1f0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/9cb0595d5b84cbe00f015f46f0f4c1f0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/f79ebe7646da70cf28328cc35f669f94/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/f79ebe7646da70cf28328cc35f669f94/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/813b10ca1dc364b776712ceba2764d98/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/813b10ca1dc364b776712ceba2764d98/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/50de2635fbd5223b4454a5929cfb22e1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/50de2635fbd5223b4454a5929cfb22e1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/093e039205b92a0c688f61e5d33dbdcd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/093e039205b92a0c688f61e5d33dbdcd/AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
 		ADDED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
@@ -167,34 +167,34 @@ uses-sdk
 INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml
 INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/9ab50355d41160fa5006ef55d58b78ae/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/9ab50355d41160fa5006ef55d58b78ae/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4210599a800d6acce2f6069252b84995/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4210599a800d6acce2f6069252b84995/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/4dabf2fd9ce90773bca77657f96d5cdf/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/4dabf2fd9ce90773bca77657f96d5cdf/AndroidManifest.xml:20:5-43
-MERGED from [com.gongwen:swipeback:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/swipeback-1.0.2.aar/ca0598979defa1595a0442de9ee8474c/AndroidManifest.xml:7:5-9:41
-MERGED from [com.gongwen:swipeback:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/swipeback-1.0.2.aar/ca0598979defa1595a0442de9ee8474c/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/385b4d4672a6b8d2e8a3a37850484f00/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/385b4d4672a6b8d2e8a3a37850484f00/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b5d09c9c4c7acf4f0bcf3a89163372dc/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b5d09c9c4c7acf4f0bcf3a89163372dc/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c30079dcd543ddc6a45ea8b78ea51a3d/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c30079dcd543ddc6a45ea8b78ea51a3d/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/90a0005802dfcb46d1bb4f72d5c4bd54/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/90a0005802dfcb46d1bb4f72d5c4bd54/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/01a32122fa3486a8f4b998ac6651b6dc/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/01a32122fa3486a8f4b998ac6651b6dc/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/92609ca9ce5327dc64b47c6d971032ea/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/92609ca9ce5327dc64b47c6d971032ea/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/87f025ed5913311fb91d0ecd70e225a3/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/87f025ed5913311fb91d0ecd70e225a3/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/8acfa02c19ef27c49752a53798d63561/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/8acfa02c19ef27c49752a53798d63561/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/d623177b680d0966fc121187111d6b87/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/d623177b680d0966fc121187111d6b87/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5f25bf5abf2eabfff8e4084c5dbcb496/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5f25bf5abf2eabfff8e4084c5dbcb496/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/135d4b13d4d23dd6766d6b1471c141e8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/135d4b13d4d23dd6766d6b1471c141e8/AndroidManifest.xml:20:5-43
+MERGED from [com.gongwen:swipeback:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/swipeback-1.0.2.aar/a566e842157a2ddc7a9f459f1fc93f7d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.gongwen:swipeback:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/swipeback-1.0.2.aar/a566e842157a2ddc7a9f459f1fc93f7d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/b767c9c882f808e5a3375eddf818ef4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/b767c9c882f808e5a3375eddf818ef4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/7a711a9b87d48d08546c79653f0ff2d1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/7a711a9b87d48d08546c79653f0ff2d1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a55c4e17c05280015d32f4d64da23f0b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a55c4e17c05280015d32f4d64da23f0b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/9cb0595d5b84cbe00f015f46f0f4c1f0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/9cb0595d5b84cbe00f015f46f0f4c1f0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/f79ebe7646da70cf28328cc35f669f94/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/f79ebe7646da70cf28328cc35f669f94/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/813b10ca1dc364b776712ceba2764d98/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/813b10ca1dc364b776712ceba2764d98/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/50de2635fbd5223b4454a5929cfb22e1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/50de2635fbd5223b4454a5929cfb22e1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/093e039205b92a0c688f61e5d33dbdcd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/093e039205b92a0c688f61e5d33dbdcd/AndroidManifest.xml:21:5-23:58
 INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml
 INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/9ab50355d41160fa5006ef55d58b78ae/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/d623177b680d0966fc121187111d6b87/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml
 		ADDED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml
@@ -204,26 +204,26 @@ INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest
 		ADDED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml
 		INJECTED from /home/bruno/Documents/SwipeBackLayout/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/9ab50355d41160fa5006ef55d58b78ae/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/4dabf2fd9ce90773bca77657f96d5cdf/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/4dabf2fd9ce90773bca77657f96d5cdf/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/385b4d4672a6b8d2e8a3a37850484f00/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/385b4d4672a6b8d2e8a3a37850484f00/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b5d09c9c4c7acf4f0bcf3a89163372dc/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/b5d09c9c4c7acf4f0bcf3a89163372dc/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c30079dcd543ddc6a45ea8b78ea51a3d/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c30079dcd543ddc6a45ea8b78ea51a3d/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/90a0005802dfcb46d1bb4f72d5c4bd54/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/90a0005802dfcb46d1bb4f72d5c4bd54/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/01a32122fa3486a8f4b998ac6651b6dc/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/01a32122fa3486a8f4b998ac6651b6dc/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/92609ca9ce5327dc64b47c6d971032ea/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/92609ca9ce5327dc64b47c6d971032ea/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/87f025ed5913311fb91d0ecd70e225a3/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/87f025ed5913311fb91d0ecd70e225a3/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/8acfa02c19ef27c49752a53798d63561/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/8acfa02c19ef27c49752a53798d63561/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/d623177b680d0966fc121187111d6b87/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/135d4b13d4d23dd6766d6b1471c141e8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/135d4b13d4d23dd6766d6b1471c141e8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/b767c9c882f808e5a3375eddf818ef4d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/b767c9c882f808e5a3375eddf818ef4d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/7a711a9b87d48d08546c79653f0ff2d1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/7a711a9b87d48d08546c79653f0ff2d1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a55c4e17c05280015d32f4d64da23f0b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/a55c4e17c05280015d32f4d64da23f0b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/9cb0595d5b84cbe00f015f46f0f4c1f0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/9cb0595d5b84cbe00f015f46f0f4c1f0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/f79ebe7646da70cf28328cc35f669f94/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/f79ebe7646da70cf28328cc35f669f94/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/813b10ca1dc364b776712ceba2764d98/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/813b10ca1dc364b776712ceba2764d98/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/50de2635fbd5223b4454a5929cfb22e1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/50de2635fbd5223b4454a5929cfb22e1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/093e039205b92a0c688f61e5d33dbdcd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/093e039205b92a0c688f61e5d33dbdcd/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/9ab50355d41160fa5006ef55d58b78ae/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/d623177b680d0966fc121187111d6b87/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/9ab50355d41160fa5006ef55d58b78ae/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/d623177b680d0966fc121187111d6b87/AndroidManifest.xml:27:13-51

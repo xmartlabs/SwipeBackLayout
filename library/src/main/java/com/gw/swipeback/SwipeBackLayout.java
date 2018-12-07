@@ -328,7 +328,7 @@ public class SwipeBackLayout extends ViewGroup {
   }
 
   private boolean isSwipeEnabled() {
-    boolean isEnable = isSwipeFromEdge
+    boolean isEnable = isSwipeFromEdge;
     if (isEnable) {
       switch (mDirectionMode) {
         case FROM_LEFT:
