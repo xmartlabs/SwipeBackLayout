@@ -23,6 +23,10 @@ android {
     }
 }
 
+apply plugin: 'com.github.dcendents.android-maven'
+
+group='com.github.Xmartlabs'
+
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
